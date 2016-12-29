@@ -1,11 +1,15 @@
-# Outline
+# Schedule
 
-- layout landscape (see below)
-- collectively system-map all the influences/causes and downstream effects of automation/AI
-    - ideal outcomes: lots of discussion & a comprehensive system map
-- develop a game (or series of games) exploring the mapped system
+- Session 1
+    - layout landscape of AI, automation, and work (see below)
+    - collectively system-map all the influences/causes and downstream effects of automation/AI
+        - ideal outcomes: lots of discussion & a comprehensive system map
+- Session 2
+    - develop a game (or series of games) exploring the mapped system
 
 # Readings
+
+These are a few readings to get you in the headspace for discussion:
 
 - a more general perspective on potential of AI: <http://www.milesbrundage.com/blog-posts/how-far-to-ai-topia>
 - on social perception/self-identifying value of work/jobs: <https://www.jacobinmag.com/2014/02/work-it/>
@@ -14,13 +18,15 @@
 
 ## Additional readings
 
-- four futures (influence of law on effects of technology): <https://www.jacobinmag.com/2011/12/four-futures/>
+- law's influence on the effects of technology: <https://www.jacobinmag.com/2011/12/four-futures/>
 
 # Landscape/touchpoints
 
+(You don't need to read these, I will reference them in our discussion)
+
 - what is automation? broadly: when technology replaces a human
     - automation as distinct from AI, though AI will contribute to the acceleration of automation
-        - e.g. traps as automation
+        - traps as automation
         - keurig k-cups/vending machines
         - turbotax
 - automation and the death of manufacturing
@@ -33,7 +39,7 @@
         - <https://www.technologyreview.com/s/603170/mining-24-hours-a-day-with-robots/>
         - <https://www.illinoispolicy.org/mcdonalds-counters-fight-for-15-with-automation/>
 - automation beyond manufacturing: <https://www.brookings.edu/blog/techtank/2016/12/15/automation-beyond-the-factory/>
-    - see also: amazon drone delivery, amazon go
+    - see also: amazon drone delivery, amazon go, creative AI
 - AI is material. the internet and info tech often feels very immaterial.
     - technology lifecycle: mining, assembly, trash: <http://www.bbc.com/future/story/20150402-the-worst-place-on-earth>
         - mining: <https://www.dissentmagazine.org/article/beyond-conflict-minerals-the-congos-resource-curse-lives-on>
@@ -55,4 +61,4 @@ Areas to consider:
 - transportation (e.g. self-driving cars, private/public transit)
 - manufacturing/production
 - immigration/globalization
-- etc
+- what else?
