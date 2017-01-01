@@ -19,6 +19,12 @@ These are a few readings to get you in the headspace for discussion:
 ## Additional readings
 
 - law's influence on the effects of technology: <https://www.jacobinmag.com/2011/12/four-futures/>
+- more on automation replacing jobs:
+    - <http://www.businessinsider.com/bernstein-china-robots-and-the-end-of-adam-smiths-wealth-of-nations-2016-12?r=UK&IR=T>
+    - <http://www.businessinsider.com/clsa-wef-and-citi-on-the-future-of-robots-and-ai-in-the-workforce-2016-6?r=UK&IR=T>
+    - <http://www.businessinsider.com/robots-will-steal-your-job-citi-ai-increase-unemployment-inequality-2016-2?r=UK&IR=T>
+    - [World Economic Forum: The Future of Jobs (Executive Summary)](http://www3.weforum.org/docs/WEF_FOJ_Executive_Summary_Jobs.pdf)
+    - [Technology at Work v2.0: The Future Is Not What It Used to Be (Citi/University of Oxford)](http://www.oxfordmartin.ox.ac.uk/downloads/reports/Citi_GPS_Technology_Work_2.pdf)
 
 # Landscape/touchpoints
 
